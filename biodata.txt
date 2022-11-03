@@ -1,0 +1,5 @@
+---------------BIODATA---------------
+Nama               :Hana Nurkarimah
+Jenis Kelamin      :Perempuan
+Alamat             :Antapani
+Nomor HP           :1234567890
